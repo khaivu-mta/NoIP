@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B92AD19D-F1EE-419C-A4A1-CAD2A9E4D89B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "noip", "src\noip.csproj", "{D8A89A93-32A3-465B-86DB-C6ED86810A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A89A93-32A3-465B-86DB-C6ED86810A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A89A93-32A3-465B-86DB-C6ED86810A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A89A93-32A3-465B-86DB-C6ED86810A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A89A93-32A3-465B-86DB-C6ED86810A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8A89A93-32A3-465B-86DB-C6ED86810A9B} = {B92AD19D-F1EE-419C-A4A1-CAD2A9E4D89B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E682140-D94C-4C04-A006-E0EED5A80A91}
+	EndGlobalSection
+EndGlobal
